@@ -6,7 +6,8 @@ A lightweight daemon for persistent, headless shell sessions. Create named shell
 
 ```bash
 git clone https://github.com/veilm/headlesh
-./headlesh/install.sh
+cd headlesh
+./install.sh
 ```
 
 ## Quick Start
